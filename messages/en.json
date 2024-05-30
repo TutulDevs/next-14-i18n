@@ -1,0 +1,19 @@
+{
+  "Test Translate": "Test Translate",
+  "internalization": "internalization",
+  "Index": {
+    "title": "Hello world!"
+  },
+  "LocaleSwitcher": {
+    "label": "Change language",
+    "locale": "{locale, select, es {🇪🇸 Spanish} en {🇺🇸 English} other {Unknown}}"
+  },
+  "About": {
+    "title": "i18n is the key to success",
+    "form_title": "Submit your thoughts",
+    "submit": "Submit"
+  },
+  "User": {
+    "title": "User Info"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "Test Translate": "Traducir prueba",
+  "internalization": "internalización",
+  "Index": {
+    "title": "Hola mundo!"
+  },
+  "LocaleSwitcher": {
+    "label": "Cambiar idioma",
+    "locale": "{locale, select, es {🇪🇸 Español} en {🇺🇸 Inglés} other {Desconocido}}"
+  },
+  "About": {
+    "title": "La internacionalización es la clave del éxito",
+    "form_title": "Envía tus pensamientos",
+    "submit": "Entregar"
+  },
+  "User": {
+    "title": "Información de usuario"
+  }
+}

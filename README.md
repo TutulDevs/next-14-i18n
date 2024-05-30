@@ -1,0 +1,2 @@
+- [Link](https://github.dev/amannn/next-intl/blob/main/examples/example-app-router/src/components/LocaleSwitcher.tsx)
+- [text](https://next-intl-docs.vercel.app/docs/environments/server-client-components)
